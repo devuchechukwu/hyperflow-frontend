@@ -30,10 +30,9 @@ Hyperflow is a modern, decentralized workflow platform that leverages blockchain
 
 ### Installation
 
-1. *Clone the repository*
+1. *Fork the repository*
 
-bash
-git clone https://github.com/Gbangbolaoluwagbemiga/hyperflow-frontend.git
+
 cd hyperflow-frontend
 
 
